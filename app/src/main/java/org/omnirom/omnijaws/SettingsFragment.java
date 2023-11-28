@@ -31,7 +31,7 @@ import android.provider.Settings;
 import android.text.TextUtils;
 import android.widget.Switch;
 
-import com.android.internal.util.crdroid.OmniJawsClient;
+import com.android.internal.util.evolution.OmniJawsClient;
 import com.android.settingslib.widget.MainSwitchPreference;
 import com.android.settingslib.widget.OnMainSwitchChangeListener;
 
